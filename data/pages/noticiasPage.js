@@ -4,10 +4,10 @@ export const noticiasPage = {
             titulo: 'Equipo -1',
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'noticias/imgs-1/imagenx.jpg',
+                    titulo: 'Hawks Mechanics',
+                    imagen: 'noticias/image-1/hawksMechanics-2.jpg',
                     imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    articulo: ''
                 },
                 {
                     titulo: 'Titulo Articulo',
