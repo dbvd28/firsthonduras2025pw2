@@ -34,24 +34,24 @@ export const noticiasPage = {
             titulo: "Equipo -2",
             articulos: [
                 {
-                    titulo: "Titulo Articulo",
-                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
-                    imagenDesc: "descripción de la imágen",
-                    articulo: "Lorem ipsum",
+                    titulo: "Captain Jack’s Crew: Innovación para la Exploración Submarina y la Conservación Marina",
+                    imagen: 'noticias/img-2/CaptainJacksCrew.jpeg',
+                    imagenDesc: "Una representación del equipo de Captain Jack’s Crew trabajando en su innovador sistema de reciclaje de oxígeno.",
+                    articulo: "El proyecto Captain Jack’s Crew busca revolucionar la exploración submarina mediante un innovador sistema que separa la molécula del agua para reciclar oxígeno, permitiendo extender el tiempo de buceo. El mayor desafío fue encontrar una fuente de energía eficiente para este proceso, pero el equipo logró superar esta barrera mediante un diseño optimizado. Más allá de la exploración, su invención tiene un impacto positivo en los arrecifes coralinos."
                 },
                 {
-                    titulo: "Titulo Articulo",
-                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
-                    imagenDesc: "descripción de la imágen",
-                    articulo: "Lorem ipsum",
+                    titulo: "Dowal Toursiops: Un Robot Autónomo para la Limpieza del Océano",
+                    imagen: "noticias/img-2/DowalTursiops.jpeg",
+                    imagenDesc: "Una ilustración de Dowal Toursiops, un robot flotando en aguas cristalinas mientras recoge desechos plásticos cerca de un arrecife de coral.",
+                    articulo: "El proyecto Dowal Toursiops busca reducir la contaminación marina mediante un robot autónomo equipado con sensores de inteligencia artificial que identifican y recogen basura sin afectar la vida marina. Inspirado en Wall-E, este innovador dispositivo tiene el potencial de limpiar los océanos de manera eficiente y sostenible. El mayor desafío del equipo fue el diseño 3D del robot. "
                 },
                 {
-                    titulo: "Titulo Articulo",
-                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
-                    imagenDesc: "descripción de la imágen",
-                    articulo: "Lorem ipsum",
+                    titulo: "Gator Byte: Tecnología y Biotecnología para un Océano Libre de Plásticos",
+                    imagen: "noticias/img-2/GatorByte.jpeg",
+                    imagenDesc: "Una ilustración de Gator Byte, un robot flotando en mar abierto mientras recoge residuos plásticos de una gran isla de basura.",
+                    articulo: "El proyecto Gator Byte se enfoca en combatir la contaminación oceánica mediante un robot diseñado para recolectar plásticos de las islas de basura y explorar el uso de bacterias especializadas en su degradación. Inspirado en Wall-E, el equipo enfrentó grandes desafíos en el diseño del robot y en la logística para implementar la biotecnología en el proceso de limpieza. Sin embargo, la colaboración y el trabajo en equipo hicieron de la experiencia un aprendizaje valioso."
                 },
-            ],
+            ]
         },
         {
             titulo: "Equipo -3",
@@ -145,24 +145,12 @@ export const noticiasPage = {
             titulo: "Equipo -7",
             articulos: [
                 {
-                    titulo: 'ACTON SUFFERS',
-                    imagen: '/images/image_7_1.jpg',
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
                     imagenDesc: 'descripción de la imágen',
-                    articulo: 'El océano está en peligro. La contaminación y el cambio climático están destruyendo hábitats marinos y afectando a muchas especies que dependen de ellos para sobrevivir.'
+                    articulo: 'Lorem ipsum'
                 },
-                {
-                    titulo: 'SEA STARS',
-                    imagen: '/images/image_7_6.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Los corales son más que rocas bonitas en el océano. Son seres vivos que forman los arrecifes, el hogar de miles de especies marinas. Sin ellos, muchos peces, tortugas y otros animales perderían su refugio y fuente de alimento'
-                },
-                {
-                    titulo: 'ROBO GENIUS',
-                    imagen: '/images/image_7_3.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'En Robo Genius, combinamos nuestra pasión por la robótica y la programación para desarrollar soluciones innovadoras en el monitoreo oceánico. Nuestro proyecto se basa en el uso de cámaras especializadas para la localización de cúmulos de peces, ayudando en la conservación de especies, el análisis de su salud y el estudio de sus patrones migratorios.'
-                },
-            ],
+            ]
         },
         {
             titulo: "Equipo -8",
