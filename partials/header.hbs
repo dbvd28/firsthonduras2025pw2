@@ -1,16 +1,13 @@
 <header>
     <div>
         <img src="https://picsum.photos/id/189/64/64" alt="Logo" />
-        <h1>Inversiones ABC</h1>
+        <h1>First Lego League</h1>
     </div>
     <nav>
         <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="html/aula1.html">Aula 1</a></li>
-            <li><a href="html/aula2.html">Aula 2</a></li>
-            <li><a href="html/aula3.html">Aula 3</a></li>
-            <li><a href="html/aula4.html">Aula 4</a></li>
-            <li><a href="html/aula4.html">Aula 5</a></li>
+            {{#each navigation}}
+                <li><a href="{{url}}">{{label}}</a></li>
+            {{/each}}
         </ul>
     </nav>
 </header>
