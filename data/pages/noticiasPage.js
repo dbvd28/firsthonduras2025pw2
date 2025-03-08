@@ -5,12 +5,16 @@ export const noticiasPage = {
             articulos: [
                 {
                     titulo: 'Titulo Articulo',
+                    imagen: 'noticias/imgs-1/imagenx.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
                     imagenDesc: 'descripción de la imágen',
                     articulo: 'Lorem ipsum'
                 },
-            ],
-            articulos: [
                 {
                     titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
@@ -18,18 +22,22 @@ export const noticiasPage = {
                     articulo: 'Lorem ipsum'
                 },
             ],
-            articulos: [
-                {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
-                },
-            ]
         },
         {
             titulo: 'Equipo -2',
             articulos: [
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
                 {
                     titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
@@ -60,6 +68,18 @@ export const noticiasPage = {
                     imagen: 'noticias/img-3/FOOTSTEPS_1.jpg',
                     imagenDesc: 'Dron Fantasma',
                     articulo: 'Este proyecto consiste en el desarrollo de un dron submarino autónomo destinado a la extracción de "redes fantasma", redes de pesca abandonadas que representan una amenaza significativa para la fauna marina y los ecosistemas de corales. Las redes fantasma son en su mayoría restos de material pesquero, muchas veces descartados por las grandes industrias pesqueras, que no toman las precauciones necesarias para recuperar estos residuos. La contaminación se origina cuando las redes quedan atrapadas en el fondo marino, y los pescadores prefieren cortarlas y dejarlas sumergidas, en lugar de proceder con su recuperación.'
+                },
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
                 },
             ]
         },
