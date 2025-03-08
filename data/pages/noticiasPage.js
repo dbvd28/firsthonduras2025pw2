@@ -5,12 +5,16 @@ export const noticiasPage = {
             articulos: [
                 {
                     titulo: 'Titulo Articulo',
+                    imagen: 'noticias/imgs-1/imagenx.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
                     imagenDesc: 'descripción de la imágen',
                     articulo: 'Lorem ipsum'
                 },
-            ],
-            articulos: [
                 {
                     titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
@@ -18,18 +22,22 @@ export const noticiasPage = {
                     articulo: 'Lorem ipsum'
                 },
             ],
-            articulos: [
-                {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
-                },
-            ]
         },
         {
             titulo: 'Equipo -2',
             articulos: [
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
                 {
                     titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
@@ -41,6 +49,18 @@ export const noticiasPage = {
         {
             titulo: 'Equipo -3',
             articulos: [
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Titulo Articulo',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'descripción de la imágen',
+                    articulo: 'Lorem ipsum'
+                },
                 {
                     titulo: 'Titulo Articulo',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
