@@ -1,0 +1,27 @@
+.galleryHolder {
+    display:flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding:0.75rem;
+    .shadow-md();
+    border-radius: 9px;
+    .imageCard{
+        position:relative;
+        width: 300px;
+        height: 250px;
+        img {
+            width:100%;
+            height:100%;
+            object-fit: cover;
+        }
+        div{
+            position: absolute;
+            bottom: 0px;
+            left: 0px;
+            width:100%;
+            padding:0.5rem;
+            background-color: fadeout(@primary-color-super-dark, 10%);
+            color: @primary-text-color;
+        }
+    }
+}

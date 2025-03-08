@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portales Web 2 Sábados</title>
+    <link rel="stylesheet" href="less/main.less" />
+  </head>
+  <body>
+    {{> header}}
+    <main>
+      
+      <div class="container">
+
+       {{> imgGallery
+        imageCollection=[
+            {
+              imgSrc: 'https://picsum.photos/id/20/640/480'
+              imgDsc: 'Imágen de Referencia 1'
+            }
+          ]
+        }}
+      </div>
+    </main>
+  </body>
+</html>
