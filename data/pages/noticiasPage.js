@@ -102,7 +102,7 @@ export const noticiasPage = {
                 },
                 {
                     titulo: 'Submerino para exploracion que utiliza luces ultrasonicas',
-                    imagen: 'public/noticias/imagenes_grupo6/ACTON_ACADEMY,jpeg',
+                    imagen: 'public/noticias/imagenes_grupo6/ACTON_ACADEMY.jpeg',
                     imagenDesc: 'Estudiantes de ACTON ACADEMY',
                     articulo: 'Los estudiantes de Acton Academy nos expusieron sobre lo perjudiciales que son las luces LED blancas afectan mas a los peces y las especies en el mar, este prototipo tiene como objetivo mantener la calidad de vida de los peces para que sigan reproduciéndose y no se extingan. La luz artificial afecta el ciclo reproductivo de los corales, también, en el caso los antunes, ellos se ven atraídos por la luz artificial lo que hace que grandes cantidades de ellos se agrupen causando la sobrepesca. En el prototipo que ellos presentan nos comentan que lo muestran con Arduino y utilizando luces ultrasónicas. El prototipo tiene una forma de submarino por lo que cuando es lanzado al océano tiene el propósito de que cada vez que se acerque a algún pez estas luces se apaguen para no dañar a los peces ya que ellos no están acostumbrados a ella. El prototipo de submarino que ellos realizaron tendría un impacto positivo en lo que es la preservación de la vida marina, de esta manera cuando se realicen exploraciones no se estaría dañando a los peces ya las diferentes especies marinas.  Lo que más les gusto de este proyecto fue unir todas las ideas que tuvieron en su grupo en una sola gran idea creativa. '
                 },
