@@ -1,53 +1,60 @@
 export const noticiasPage = {
     noticias: [
+
         {
             titulo: 'Equipo -1',
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'noticias/imgs-1/imagenx.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "TechTigers",
+                    imagen: "noticias/image-1/techTigers.jpg",
+                    imagenDesc:
+                        "El equipo Tech Tigers desarrolló un dron marino diseñado para capturar imágenes de los corales y analizar la calidad del agua. Su principal ventaja es que puede permanecer sumergido 24 horas, facilitando el estudio de los ecosistemas marinos, ya que los buzos solo pueden estar aproximadamente 30 minutos bajo el agua. Además, su precisión evita dañar los corales, que son muy delicados.",
+                    articulo:
+                        "Inicialmente, el proyecto utilizaba respirometría, pero seis semanas antes del evento lo cambiaron tras recibir asesoría de un biólogo en Telamar, buscando una solución más simple pero con mayor impacto. Uno de los mayores aprendizajes fue que un proyecto exitoso no necesita ser costoso: su idea inicial costaba miles de dólares, pero con materiales reciclados lograron reducirlo a 500-400 dólares, manteniendo su efectividad y accesibilidad.",
                 },
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "Hawks Mechanics",
+                    imagen: "noticias/image-1/hawksMechanics.jpg",
+                    imagenDesc:
+                        "El proyecto consiste en un *sistema de cuadrantes* que analiza el agua para *localizar corales* y determinar si las condiciones submarinas son aptas para su desarrollo. Actualmente, no hay registros exactos de su ubicación, por lo que esta herramienta facilitaría su monitoreo.  ",
+                    articulo:
+                        "Lo que más disfrutaron fue aprender sobre *batimetría*, la ciencia que estudia el fondo marino y su formación.   El mayor desafío fue *unificar ideas dentro del equipo*, ya que al inicio cada miembro tenía enfoques distintos. Sin embargo, lograron combinar sus propuestas en un proyecto que representara su visión en común.",
                 },
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "Hawks Mechanics",
+                    imagen: "noticias/image-1/hawksMechanics.jpg",
+                    imagenDesc:
+                        "El proyecto consiste en un *sistema de cuadrantes* que analiza el agua para *localizar corales* y determinar si las condiciones submarinas son aptas para su desarrollo. Actualmente, no hay registros exactos de su ubicación, por lo que esta herramienta facilitaría su monitoreo.  ",
+                    articulo:
+                        "Lo que más disfrutaron fue aprender sobre *batimetría*, la ciencia que estudia el fondo marino y su formación.   El mayor desafío fue *unificar ideas dentro del equipo*, ya que al inicio cada miembro tenía enfoques distintos. Sin embargo, lograron combinar sus propuestas en un proyecto que representara su visión en común.",
                 },
             ],
         },
         {
-            titulo: 'Equipo -2',
+            titulo: "Equipo -2",
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "Titulo Articulo",
+                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
+                    imagenDesc: "descripción de la imágen",
+                    articulo: "Lorem ipsum",
                 },
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "Titulo Articulo",
+                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
+                    imagenDesc: "descripción de la imágen",
+                    articulo: "Lorem ipsum",
                 },
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "Titulo Articulo",
+                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
+                    imagenDesc: "descripción de la imágen",
+                    articulo: "Lorem ipsum",
                 },
-            ]
+            ],
         },
         {
-            titulo: 'Equipo -3',
+            titulo: "Equipo -3",
             articulos: [
                 {
                     titulo: 'Winded Innovators',
@@ -69,10 +76,10 @@ export const noticiasPage = {
                     imagenDesc: 'Dron Fantasma',
                     articulo: 'Este proyecto consiste en el desarrollo de un dron submarino autónomo destinado a la extracción de "redes fantasma", redes de pesca abandonadas que representan una amenaza significativa para la fauna marina y los ecosistemas de corales. Las redes fantasma son en su mayoría restos de material pesquero, muchas veces descartados por las grandes industrias pesqueras, que no toman las precauciones necesarias para recuperar estos residuos. La contaminación se origina cuando las redes quedan atrapadas en el fondo marino, y los pescadores prefieren cortarlas y dejarlas sumergidas, en lugar de proceder con su recuperación.'
                 },
-            ]
+            ],
         },
         {
-            titulo: 'Equipo -4',
+            titulo: "Equipo -4",
             articulos: [
                 {
                     titulo: 'Apex Jaguars',
@@ -92,17 +99,11 @@ export const noticiasPage = {
                     imagenDesc: 'Brazo Robótico Manual para la Limpieza de Plásticos en el Océano',
                     articulo: ' Nuestro proyecto consiste en un brazo robótico diseñado para la recolección de plásticos en el océano. Su objetivo es contribuir a la limpieza de los mares y minimizar el impacto de los desechos en la vida marina. El mayor reto fue construir la piscina que simulaba el océano. Inicialmente, planeábamos usar agua, pero nos dimos cuenta de que el prototipo no era resistente al agua, lo que nos obligó a replantear el diseño del entorno de prueba. Lo más emocionante fue diseñar y construir el brazo robótico.'
                 },
-            ]
+            ],
         },
         {
-            titulo: 'Equipo -5',
+            titulo: "Equipo -5",
             articulos: [
-                {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
-                },
                 {
                     titulo: 'Robostallions #2: Umbra',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
@@ -118,7 +119,7 @@ export const noticiasPage = {
             ]
         },
         {
-            titulo: 'Equipo -6',
+            titulo: "Equipo -6",
             articulos: [
                 {
                     titulo: 'Rest Wreck',
@@ -135,7 +136,7 @@ export const noticiasPage = {
             ],
         },
         {
-            titulo: 'Equipo -7',
+            titulo: "Equipo -7",
             articulos: [
                 {
                     titulo: 'ACTON SUFFERS',
@@ -158,15 +159,15 @@ export const noticiasPage = {
             ],
         },
         {
-            titulo: 'Equipo -8',
+            titulo: "Equipo -8",
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: "Titulo Articulo",
+                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
+                    imagenDesc: "descripción de la imágen",
+                    articulo: "Lorem ipsum",
                 },
-            ]
+            ],
         },
-    ]
-}
+    ],
+};
