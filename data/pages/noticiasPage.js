@@ -86,10 +86,10 @@ export const noticiasPage = {
             titulo: 'Equipo -5',
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
+                    titulo: 'Coralina Ex',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
                     imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    articulo: 'Coralina Ex (prototipo) toma muestras de corales para llevarlos a la superficie y ver en que condiciones están para tomar acciones, cuando Coralina este en su version final, podrá tomar muestras de agua para ver la calidad del agua con el objetivo de tener arrecifes mas saludables. '
                 },
                 {
                     titulo: 'Robostallions #2: Umbra',
