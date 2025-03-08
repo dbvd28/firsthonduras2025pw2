@@ -75,10 +75,22 @@ export const noticiasPage = {
             titulo: 'Equipo -4',
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: 'Apex Jaguars',
+                    imagen: 'noticias/img-4/apex_jaguars.jpg',
+                    imagenDesc: 'Brazo Robótico para la Clasificación de Basura por Color',
+                    articulo: 'Nuestro proyecto consiste en un brazo robótico diseñado para clasificar basura por color. El objetivo es mejorar la eficiencia y precisión del sistema de reciclaje, ya que, en la actualidad, esta práctica no se respeta lo suficiente. El mayor reto fue la integración del sensor, ya que no era compatible con el sensor de control encargado de detectar movimiento. Lo más emocionante fue poder ser creativos y originales con el proyecto. Nos sacó de nuestra zona de confort, pero trabajar en equipo hizo que el aprendizaje fuera más dinámico y enriquecedor.'
+                },
+                {
+                    titulo: 'Footsteps Missions',
+                    imagen: 'noticias/img-4/footsteps2.jpg',
+                    imagenDesc: 'Guardianes Lumínicos',
+                    articulo: ' Nuestro proyecto busca rescatar y proteger la vida marina a través de un sistema de faros bioluminiscentes en el agua. Estos faros sirven como guía para los navegantes, reduciendo los riesgos para los peces y contribuyendo a la preservación de los ecosistemas marinos. Lo más difícil fue investigar y comprender el funcionamiento de las lámparas flotantes o faros. Encontrar información detallada sobre el tema resultó un reto, ya que necesitábamos una base sólida para poder explicarlo correctamente.'
+                },
+                {
+                    titulo: ' Jaguars Master Builders',
+                    imagen: 'noticias/img-4/jaguars_masters.jpg',
+                    imagenDesc: 'Brazo Robótico Manual para la Limpieza de Plásticos en el Océano',
+                    articulo: ' Nuestro proyecto consiste en un brazo robótico diseñado para la recolección de plásticos en el océano. Su objetivo es contribuir a la limpieza de los mares y minimizar el impacto de los desechos en la vida marina. El mayor reto fue construir la piscina que simulaba el océano. Inicialmente, planeábamos usar agua, pero nos dimos cuenta de que el prototipo no era resistente al agua, lo que nos obligó a replantear el diseño del entorno de prueba. Lo más emocionante fue diseñar y construir el brazo robótico.'
                 },
             ]
         },
