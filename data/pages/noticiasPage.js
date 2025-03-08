@@ -131,10 +131,22 @@ export const noticiasPage = {
             titulo: 'Equipo -8',
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: 'Tecno Lions Team',
+                    imagen: 'noticias/img-8/TecnoLion_Grupo1.jpg/',
+                    imagenDesc: 'Equipo número 1: Robot de exploración marina',
+                    articulo: 'Desarrolló un robot de LEGO para la exploración marina y el monitoreo de arrecifes. Los integrantes destacaron el trabajo en equipo como su aspecto favorito y mencionaron que el mayor desafío fue el diseño y ensamblaje del robot dentro del tiempo disponible. Sin embargo, lo más gratificante fue saber que su proyecto puede contribuir a la concienciación sobre la importancia de proteger los arrecifes de coral.'
+                },
+                {
+                    titulo: 'Winged Circuits',
+                    imagen: 'noticias/img-8/WingedCircuits_Grupo2.jpg',
+                    imagenDesc: 'Equipo número 2: Robot subamarino autónomo',
+                    articulo: 'Winged Circuits trabajó en un robot submarino autónomo equipado con sensores y cámaras para detectar animales marinos en riesgo y limpiar basura del suelo marino. Los jóvenes resaltaron la experiencia de conocer nuevas personas y compartir ideas innovadoras. No obstante, enfrentaron dificultades para conseguir materiales adecuados para su maqueta. Lo más gratificante para ellos fue presentar su propuesta ante un público interesado en la conservación marina y generar conciencia sobre la contaminación en los océanos.'
+                },
+                {
+                    titulo: 'Robolab',
+                    imagen: 'noticias/img-8/Robolab_Grupo3.jpg',
+                    imagenDesc: 'Equipo número 3: Repoblación de bosques de algas',
+                    articulo: 'Robolab presentó un proyecto basado en el entrenamiento de nutrias para repoblar bosques de algas. El equipo disfrutó la oportunidad de colaborar y desarrollar una idea innovadora. La mayor dificultad fue la planificación y ejecución en el tiempo estipulado, pero destacaron como recompensa la posibilidad de compartir su iniciativa con otros participantes y formar parte de un evento enriquecedor.'
                 },
             ]
         },
