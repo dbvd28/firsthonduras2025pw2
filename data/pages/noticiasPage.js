@@ -105,12 +105,18 @@ export const noticiasPage = {
             titulo: "Equipo -5",
             articulos: [
                 {
-                    titulo: "Titulo Articulo",
-                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
-                    imagenDesc: "descripción de la imágen",
-                    articulo: "Lorem ipsum",
+                    titulo: 'Robostallions #2: Umbra',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'Robostallions #2: Umbra',
+                    articulo: 'Innovador dron híbrido ayuda a proteger los arrecifes de coral en Roatán. Un grupo de investigadores ha desarrollado un dron híbrido diseñado para monitorear y explorar el océano, con un enfoque especial en la protección de los arrecifes de coral en la costa de Roatán, Honduras. Este dispositivo tecnológico está equipado con sensores que permiten medir factores críticos como la acidificación del agua, la presencia de petróleo y el pH, contribuyendo a la conservación del ecosistema marino. Además, el dron puede dar mantenimiento a cables submarinos que transportan servicios esenciales como wifi y electricidad. Retos en el desarrollo del dron híbrido. El equipo enfrentó diversas dificultades en la creación del dron, especialmente en lo que respecta a su estructura y estabilidad. Al tratarse de un dispositivo que debe operar tanto en el aire como en el agua, encontrar un diseño adecuado fue un reto importante. Finalmente, optaron por una estructura triangular que mejoró la estabilidad del dron en ambos entornos. Otro obstáculo fue el mantenimiento del dispositivo, ya que algunas piezas impresas en 3D sufrían daños frecuentes, lo que requirió ajustes constantes. Además, el acceso a información sobre el ecosistema marino fue limitado, ya que el equipo no tenía contacto directo con el océano. Para superar esta barrera, contaron con el apoyo de bólogos marinos que les brindaron asesoría técnica en el desarrollo del proyecto. Un impacto positivo en la conservación marina. Este innovador dron ofrece un gran impacto en la protección del medio ambiente. Gracias a su capacidad de monitoreo, las autoridades y los oceanógrafos pueden tomar decisiones informadas para enfrentar amenazas ambientales como la contaminación por derrames de petróleo y cambios en la acidez del agua. Al detectar anomalías, el dron envía información en tiempo real a los expertos, facilitando la implementación de soluciones rápidas y eficaces. En definitiva, este proyecto representa un importante avance en la gestión de los recursos submarinos y la conservación de los arrecifes de coral, asegurando que las futuras generaciones puedan seguir disfrutando de estos valiosos ecosistemas.'
                 },
-            ],
+                {
+                    titulo: 'Dowal Marine Squad: The Marine Squad',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'Dowal Marine Squad: The Marine Squad',
+                    articulo: 'Dowal Marine Squad: Estudiantes hondureños desarrollan innovador robot para la conservación de corales. Un grupo de estudiantes de bachillerato en Honduras, conocido como Dowal Marine Squad, ha creado una solución innovadora para proteger los corales en Roatán, afectados por proyectos de infraestructura que han alterado su ecosistema. Su propuesta, una malla biodegradable con autolimpieza, busca reducir el impacto de la sedimentación y contribuir a la restauración de los arrecifes. Un problema urgente en Roatán. Al buscar problemáticas ambientales en Honduras, Dowal Marine Squad descubrió un caso preocupante en Roatán: la construcción de un puente obligó a trasladar corales, pero fueron ubicados demasiado cerca de la orilla. La marea arrastraba arena sobre ellos, provocando su muerte. Para comprender mejor la situación, el grupo se reunió con una bióloga marina galardonada con el premio "Mujeres en la Ciencia" de este año, quien les explicó que los proyectos de conservación de corales se realizaban manualmente. Además, con el apoyo de sus profesores de física y biología, los estudiantes comenzaron a desarrollar ideas para abordar el problema. Visitaron Roatán y realizaron snorkel en la zona afectada. Lo que encontraron fue alarmante: corales blanqueados y sin vida, así como una gran acumulación de fragmentos muertos en la orilla. A partir de esta experiencia, decidieron crear una solución efectiva y sostenible. Del concepto a la innovación. Inicialmente, el equipo pensó en un mecanismo más complejo, como un sistema de ventilación submarina, pero pronto se dieron cuenta de que era poco práctico debido a la disponibilidad de materiales. A lo largo del proceso, enfrentaron múltiples desafíos y tuvieron que replantear su enfoque varias veces antes de llegar a la solución final. Su proyecto culminó en el diseño de una malla fabricada con bioplásticos a base de algas, un material biodegradable que no emite toxinas en el agua. La malla no solo protege los corales de la sedimentación, sino que también incorpora un sistema de autolimpieza, lo que reduce la carga de trabajo de los biólogos que tradicionalmente deben realizar estos procedimientos de forma manual. Más que una idea, un compromiso con el medioambiente. Los estudiantes de Dowal Marine Squad sabían que la conservación de corales en Honduras no siempre ha sido una prioridad, y dudaban de que existiera inversión en este tipo de proyectos.'
+                },
+            ]
         },
         {
             titulo: "Equipo -6",
@@ -156,10 +162,23 @@ export const noticiasPage = {
             titulo: "Equipo -8",
             articulos: [
                 {
-                    titulo: "Titulo Articulo",
-                    imagen: "url de la imagen /noticias/<equipo_x_y>.jpg",
-                    imagenDesc: "descripción de la imágen",
-                    articulo: "Lorem ipsum",
+                    titulo: 'Tecno Lions Team',
+                    imagen: 'noticias/img-8/TecnoLion_Grupo1.jpeg',
+                    imagenDesc: 'Equipo número 1: Robot de exploración marina',
+                    articulo: 'Desarrolló un robot de LEGO para la exploración marina y el monitoreo de arrecifes. Los integrantes destacaron el trabajo en equipo como su aspecto favorito y mencionaron que el mayor desafío fue el diseño y ensamblaje del robot dentro del tiempo disponible. Sin embargo, lo más gratificante fue saber que su proyecto puede contribuir a la concienciación sobre la importancia de proteger los arrecifes de coral.'
+                },
+                {
+                    titulo: 'Winged Circuits',
+                    imagen: 'noticias/img-8/WingedCircuits_Grupo2.jpeg',
+                    imagenDesc: 'Equipo número 2: Robot subamarino autónomo',
+                    articulo: 'Winged Circuits trabajó en un robot submarino autónomo equipado con sensores y cámaras para detectar animales marinos en riesgo y limpiar basura del suelo marino. Los jóvenes resaltaron la experiencia de conocer nuevas personas y compartir ideas innovadoras. No obstante, enfrentaron dificultades para conseguir materiales adecuados para su maqueta. Lo más gratificante para ellos fue presentar su propuesta ante un público interesado en la conservación marina y generar conciencia sobre la contaminación en los océanos.'
+                },
+                {
+                    titulo: 'Robolab',
+                    imagen: 'noticias/img-8/Robolab_Grupo3.jpeg',
+                    imagenDesc: 'Equipo número 3: Repoblación de bosques de algas',
+                    articulo: 'Robolab presentó un proyecto basado en el entrenamiento de nutrias para repoblar bosques de algas. El equipo disfrutó la oportunidad de colaborar y desarrollar una idea innovadora. La mayor dificultad fue la planificación y ejecución en el tiempo estipulado, pero destacaron como recompensa la posibilidad de compartir su iniciativa con otros participantes y formar parte de un evento enriquecedor.'
+
                 },
             ],
         },
