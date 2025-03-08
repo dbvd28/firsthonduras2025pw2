@@ -138,7 +138,7 @@ export const noticiasPage = {
             articulos: [
                 {
                     titulo: 'Tecno Lions Team',
-                    imagen: 'noticias/img-8/TecnoLion_Grupo1.jpeg/',
+                    imagen: 'noticias/img-8/TecnoLion_Grupo1.jpeg',
                     imagenDesc: 'Equipo número 1: Robot de exploración marina',
                     articulo: 'Desarrolló un robot de LEGO para la exploración marina y el monitoreo de arrecifes. Los integrantes destacaron el trabajo en equipo como su aspecto favorito y mencionaron que el mayor desafío fue el diseño y ensamblaje del robot dentro del tiempo disponible. Sin embargo, lo más gratificante fue saber que su proyecto puede contribuir a la concienciación sobre la importancia de proteger los arrecifes de coral.'
                 },
