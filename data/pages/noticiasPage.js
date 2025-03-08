@@ -75,10 +75,22 @@ export const noticiasPage = {
             titulo: 'Equipo -4',
             articulos: [
                 {
-                    titulo: 'Titulo Articulo',
-                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    titulo: 'Apex Jaguars',
+                    imagen: 'noticias/img-4/apex_jaguars.jpg',
+                    imagenDesc: 'Brazo Robótico para la Clasificación de Basura por Color',
+                    articulo: 'Nuestro proyecto consiste en un brazo robótico diseñado para clasificar basura por color. El objetivo es mejorar la eficiencia y precisión del sistema de reciclaje, ya que, en la actualidad, esta práctica no se respeta lo suficiente. El mayor reto fue la integración del sensor, ya que no era compatible con el sensor de control encargado de detectar movimiento. Lo más emocionante fue poder ser creativos y originales con el proyecto. Nos sacó de nuestra zona de confort, pero trabajar en equipo hizo que el aprendizaje fuera más dinámico y enriquecedor.'
+                },
+                {
+                    titulo: 'Footsteps Missions',
+                    imagen: 'noticias/img-4/footsteps2.jpg',
+                    imagenDesc: 'Guardianes Lumínicos',
+                    articulo: ' Nuestro proyecto busca rescatar y proteger la vida marina a través de un sistema de faros bioluminiscentes en el agua. Estos faros sirven como guía para los navegantes, reduciendo los riesgos para los peces y contribuyendo a la preservación de los ecosistemas marinos. Lo más difícil fue investigar y comprender el funcionamiento de las lámparas flotantes o faros. Encontrar información detallada sobre el tema resultó un reto, ya que necesitábamos una base sólida para poder explicarlo correctamente.'
+                },
+                {
+                    titulo: ' Jaguars Master Builders',
+                    imagen: 'noticias/img-4/jaguars_masters.jpg',
+                    imagenDesc: 'Brazo Robótico Manual para la Limpieza de Plásticos en el Océano',
+                    articulo: ' Nuestro proyecto consiste en un brazo robótico diseñado para la recolección de plásticos en el océano. Su objetivo es contribuir a la limpieza de los mares y minimizar el impacto de los desechos en la vida marina. El mayor reto fue construir la piscina que simulaba el océano. Inicialmente, planeábamos usar agua, pero nos dimos cuenta de que el prototipo no era resistente al agua, lo que nos obligó a replantear el diseño del entorno de prueba. Lo más emocionante fue diseñar y construir el brazo robótico.'
                 },
             ]
         },
@@ -90,6 +102,18 @@ export const noticiasPage = {
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
                     imagenDesc: 'descripción de la imágen',
                     articulo: 'Lorem ipsum'
+                },
+                {
+                    titulo: 'Robostallions #2: Umbra',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'Robostallions #2: Umbra',
+                    articulo: 'Innovador dron híbrido ayuda a proteger los arrecifes de coral en Roatán. Un grupo de investigadores ha desarrollado un dron híbrido diseñado para monitorear y explorar el océano, con un enfoque especial en la protección de los arrecifes de coral en la costa de Roatán, Honduras. Este dispositivo tecnológico está equipado con sensores que permiten medir factores críticos como la acidificación del agua, la presencia de petróleo y el pH, contribuyendo a la conservación del ecosistema marino. Además, el dron puede dar mantenimiento a cables submarinos que transportan servicios esenciales como wifi y electricidad. Retos en el desarrollo del dron híbrido. El equipo enfrentó diversas dificultades en la creación del dron, especialmente en lo que respecta a su estructura y estabilidad. Al tratarse de un dispositivo que debe operar tanto en el aire como en el agua, encontrar un diseño adecuado fue un reto importante. Finalmente, optaron por una estructura triangular que mejoró la estabilidad del dron en ambos entornos. Otro obstáculo fue el mantenimiento del dispositivo, ya que algunas piezas impresas en 3D sufrían daños frecuentes, lo que requirió ajustes constantes. Además, el acceso a información sobre el ecosistema marino fue limitado, ya que el equipo no tenía contacto directo con el océano. Para superar esta barrera, contaron con el apoyo de bólogos marinos que les brindaron asesoría técnica en el desarrollo del proyecto. Un impacto positivo en la conservación marina. Este innovador dron ofrece un gran impacto en la protección del medio ambiente. Gracias a su capacidad de monitoreo, las autoridades y los oceanógrafos pueden tomar decisiones informadas para enfrentar amenazas ambientales como la contaminación por derrames de petróleo y cambios en la acidez del agua. Al detectar anomalías, el dron envía información en tiempo real a los expertos, facilitando la implementación de soluciones rápidas y eficaces. En definitiva, este proyecto representa un importante avance en la gestión de los recursos submarinos y la conservación de los arrecifes de coral, asegurando que las futuras generaciones puedan seguir disfrutando de estos valiosos ecosistemas.'
+                },
+                {
+                    titulo: 'Dowal Marine Squad: The Marine Squad',
+                    imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
+                    imagenDesc: 'Dowal Marine Squad: The Marine Squad',
+                    articulo: 'Dowal Marine Squad: Estudiantes hondureños desarrollan innovador robot para la conservación de corales. Un grupo de estudiantes de bachillerato en Honduras, conocido como Dowal Marine Squad, ha creado una solución innovadora para proteger los corales en Roatán, afectados por proyectos de infraestructura que han alterado su ecosistema. Su propuesta, una malla biodegradable con autolimpieza, busca reducir el impacto de la sedimentación y contribuir a la restauración de los arrecifes. Un problema urgente en Roatán. Al buscar problemáticas ambientales en Honduras, Dowal Marine Squad descubrió un caso preocupante en Roatán: la construcción de un puente obligó a trasladar corales, pero fueron ubicados demasiado cerca de la orilla. La marea arrastraba arena sobre ellos, provocando su muerte. Para comprender mejor la situación, el grupo se reunió con una bióloga marina galardonada con el premio "Mujeres en la Ciencia" de este año, quien les explicó que los proyectos de conservación de corales se realizaban manualmente. Además, con el apoyo de sus profesores de física y biología, los estudiantes comenzaron a desarrollar ideas para abordar el problema. Visitaron Roatán y realizaron snorkel en la zona afectada. Lo que encontraron fue alarmante: corales blanqueados y sin vida, así como una gran acumulación de fragmentos muertos en la orilla. A partir de esta experiencia, decidieron crear una solución efectiva y sostenible. Del concepto a la innovación. Inicialmente, el equipo pensó en un mecanismo más complejo, como un sistema de ventilación submarina, pero pronto se dieron cuenta de que era poco práctico debido a la disponibilidad de materiales. A lo largo del proceso, enfrentaron múltiples desafíos y tuvieron que replantear su enfoque varias veces antes de llegar a la solución final. Su proyecto culminó en el diseño de una malla fabricada con bioplásticos a base de algas, un material biodegradable que no emite toxinas en el agua. La malla no solo protege los corales de la sedimentación, sino que también incorpora un sistema de autolimpieza, lo que reduce la carga de trabajo de los biólogos que tradicionalmente deben realizar estos procedimientos de forma manual. Más que una idea, un compromiso con el medioambiente. Los estudiantes de Dowal Marine Squad sabían que la conservación de corales en Honduras no siempre ha sido una prioridad, y dudaban de que existiera inversión en este tipo de proyectos.'
                 },
             ]
         },
