@@ -92,10 +92,10 @@ export const noticiasPage = {
                     articulo: 'Lorem ipsum'
                 },
                 {
-                    titulo: 'Titulo Articulo',
+                    titulo: 'Robostallions #2: Umbra',
                     imagen: 'url de la imagen /noticias/<equipo_x_y>.jpg',
-                    imagenDesc: 'descripción de la imágen',
-                    articulo: 'Lorem ipsum'
+                    imagenDesc: 'Robostallions #2: Umbra',
+                    articulo: 'Innovador dron híbrido ayuda a proteger los arrecifes de coral en Roatán. Un grupo de investigadores ha desarrollado un dron híbrido diseñado para monitorear y explorar el océano, con un enfoque especial en la protección de los arrecifes de coral en la costa de Roatán, Honduras. Este dispositivo tecnológico está equipado con sensores que permiten medir factores críticos como la acidificación del agua, la presencia de petróleo y el pH, contribuyendo a la conservación del ecosistema marino. Además, el dron puede dar mantenimiento a cables submarinos que transportan servicios esenciales como wifi y electricidad. Retos en el desarrollo del dron híbrido. El equipo enfrentó diversas dificultades en la creación del dron, especialmente en lo que respecta a su estructura y estabilidad. Al tratarse de un dispositivo que debe operar tanto en el aire como en el agua, encontrar un diseño adecuado fue un reto importante. Finalmente, optaron por una estructura triangular que mejoró la estabilidad del dron en ambos entornos. Otro obstáculo fue el mantenimiento del dispositivo, ya que algunas piezas impresas en 3D sufrían daños frecuentes, lo que requirió ajustes constantes. Además, el acceso a información sobre el ecosistema marino fue limitado, ya que el equipo no tenía contacto directo con el océano. Para superar esta barrera, contaron con el apoyo de bólogos marinos que les brindaron asesoría técnica en el desarrollo del proyecto. Un impacto positivo en la conservación marina. Este innovador dron ofrece un gran impacto en la protección del medio ambiente. Gracias a su capacidad de monitoreo, las autoridades y los oceanógrafos pueden tomar decisiones informadas para enfrentar amenazas ambientales como la contaminación por derrames de petróleo y cambios en la acidez del agua. Al detectar anomalías, el dron envía información en tiempo real a los expertos, facilitando la implementación de soluciones rápidas y eficaces. En definitiva, este proyecto representa un importante avance en la gestión de los recursos submarinos y la conservación de los arrecifes de coral, asegurando que las futuras generaciones puedan seguir disfrutando de estos valiosos ecosistemas.'
                 },
                 {
                     titulo: 'Titulo Articulo',
