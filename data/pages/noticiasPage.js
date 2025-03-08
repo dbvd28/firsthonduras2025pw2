@@ -21,12 +21,12 @@ export const noticiasPage = {
                         "Lo que más disfrutaron fue aprender sobre *batimetría*, la ciencia que estudia el fondo marino y su formación.   El mayor desafío fue *unificar ideas dentro del equipo*, ya que al inicio cada miembro tenía enfoques distintos. Sin embargo, lograron combinar sus propuestas en un proyecto que representara su visión en común.",
                 },
                 {
-                    titulo: "Hawks Mechanics",
-                    imagen: "noticias/image-1/hawksMechanics.jpg",
+                    titulo: "Mega Bulls",
+                    imagen: "noticias/image-1/megaBulls.jpg",
                     imagenDesc:
                         "El proyecto consiste en un *sistema de cuadrantes* que analiza el agua para *localizar corales* y determinar si las condiciones submarinas son aptas para su desarrollo. Actualmente, no hay registros exactos de su ubicación, por lo que esta herramienta facilitaría su monitoreo.  ",
                     articulo:
-                        "Lo que más disfrutaron fue aprender sobre *batimetría*, la ciencia que estudia el fondo marino y su formación.   El mayor desafío fue *unificar ideas dentro del equipo*, ya que al inicio cada miembro tenía enfoques distintos. Sin embargo, lograron combinar sus propuestas en un proyecto que representara su visión en común.",
+                        "El proyecto busca interpretar los sonidos de los corales para evaluar su bienestar y explorar posibles beneficios médicos, ya que pueden vivir más de 500 años. Uno de los principales retos fue adquirir el hidrófono, un equipo disponible solo en EE.UU., enfrentando dificultades bancarias para su compra.",
                 },
             ],
         },
