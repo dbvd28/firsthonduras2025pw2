@@ -6,10 +6,10 @@ import { galeriaPage } from "./pages/galeriaPage";
 
 const commonData = {
     navigation: [
-        { url: '/index.html', label: 'Inicio' },
-        { url: '/galeria.html', label: 'Galería' },
-        { url: '/noticias.html', label: 'Noticias' },
-        { url: '/contactus.html', label: 'Acerca de FLL' },
+        { url: 'index.html', label: 'Inicio' },
+        { url: 'galeria.html', label: 'Galería' },
+        { url: 'noticias.html', label: 'Noticias' },
+        { url: 'contactus.html', label: 'Acerca de FLL' },
     ]
 }
 

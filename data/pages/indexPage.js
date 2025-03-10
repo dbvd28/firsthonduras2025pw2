@@ -1,4 +1,9 @@
 export const indexPage = {
+    hero: {
+      imgsrc: '',
+      panelClass: '',
+      panelContent: ''
+    },
     indexSummary:[
         {
           imgSrc: 'https://picsum.photos/id/20/640/480',
